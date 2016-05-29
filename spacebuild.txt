@@ -4,6 +4,7 @@
 	"title"		"Spacebuild"
 	"maps"		"^sb_"
 	"menusystem"	"1"
+	"workshopid"	"TODO"
 
 	"settings"
 	{
