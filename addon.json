@@ -1,0 +1,20 @@
+{
+	"title"		:	"Spacebuild Sandbox",
+	"type"		:	"gamemode",
+	"tags"		:	[ "build", "fun" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*",
+		"*.txt",
+		"documents/*",
+		"screenshots/*",
+		".git*",
+		"LICENSE",
+		"NOTICE",
+		"*.md",
+		"*.gma",
+		"*.jpg"
+	]
+}
